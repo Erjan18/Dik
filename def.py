@@ -18,4 +18,3 @@
 #
 #
 #
-print(eval(input('пиши')))
